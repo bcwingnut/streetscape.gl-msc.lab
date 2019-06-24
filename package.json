@@ -41,6 +41,5 @@
   "pre-commit": [
     "copyright-check",
     "test"
-  ],
-  "private": true
+  ]
 }
